@@ -96,6 +96,9 @@
       {% endif %}      
 
       <!-- Font Awesome icons / Social media -->
+      {% if author.tistory %}
+        <li><a href="{{ author.tistory }}"><i class="fas fa-fw fa-blog icon-pad-right" aria-hidden="true"></i>Tech Blog</a></li>
+      {% endif %}
       {% if author.artstation %}
         <li><a href="https://www.artstation.com/{{ author.artstation }}"><i class="fab fa-fw fa-artstation icon-pad-right" aria-hidden="true"></i>Artstation</a></li>
       {% endif %}        

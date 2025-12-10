@@ -16,6 +16,11 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    <!-- Theme Toggle Button (Fixed Position) -->
+    <div id="theme-toggle" class="theme-toggle-fixed">
+      <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+    </div>
+
     {{ content }}
 
     <div class="page__footer">
