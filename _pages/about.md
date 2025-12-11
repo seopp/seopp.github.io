@@ -30,15 +30,15 @@ My research interests include:
 
 * **[H-DDx: A Hierarchical Evaluation Framework for Differential Diagnosis](https://arxiv.org/pdf/2510.03700)**  
   **Seungseop Lim**\*, Gibaeg Kim\*, Hyunkyung Lee, Wooseok Han, Jean Seo, Jaehyo Yoo Eunho Yang   
-  **GenAI4Health @NeurIPS** 2025 Oral
+  **GenAI4Health @NeurIPS 2025 Oral**
 
 * **[Taxonomy of Comprehensive Safety for Clinical Agents](https://aclanthology.org/2025.emnlp-industry.124.pdf)**  
   Jean Seo, Hyunkyung Lee, Gibaeg Kim, Wooseok Han, Jaehyo Yoo, **Seungseop Lim**, Kihun Shin, Eunho Yang  
-  **EMNLP Industry Track** 2025
+  **EMNLP 2025 Industry Track** 
 
 * **[Format Inertia: A Failure Mechanism of LLMs in Medical Pre-Consultation](https://aclanthology.org/2025.emnlp-industry.101.pdf)**  
   **Seungseop Lim**, Gibaeg Kim, Wooseok Han, Jean Seo, Hyunkyung Lee, Jaehyo Yoo Eunho Yang  
-  **EMNLP Industry Track** 2025
+  **EMNLP 2025 Industry Track** 
 
 * **[Adversarial Purification via Super-Resolution and Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.pdf)**  
   Mincheol Park, Cheonjun Park, **Seungseop Lim**, Mijin Koo, Hyunwuk Lee, Won Woo Ro, Suhyun Kim  
