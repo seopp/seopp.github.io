@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently working as an AI researcher at [AITRICS](https://www.aitrics.com/) as the alternative for mandatory military service in South Korea.
 
-My research interest includes:
+My research interests include:
 * Large Language Models
-* Evaluation of Language Models
+* Evaluation & Robustness
 * Healthcare AI
 
 ## Work Experiences
