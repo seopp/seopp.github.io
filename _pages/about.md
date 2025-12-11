@@ -13,7 +13,7 @@ I am currently working as an AI researcher at [AITRICS](https://www.aitrics.com/
 My research interests include:
 * Large Language Models
 * Evaluation & Robustness
-* Healthcare AI
+* Efficient Models
 
 ## Work Experiences
 
@@ -42,7 +42,7 @@ My research interests include:
 
 * **[Adversarial Purification via Super-Resolution and Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Park_Adversarial_Purification_via_Super-Resolution_and_Diffusion_ICCV_2025_paper.pdf)**  
   Mincheol Park, Cheonjun Park, **Seungseop Lim**, Mijin Koo, Hyunwuk Lee, Won Woo Ro, Suhyun Kim  
-  **ICCV** 2025
+  **ICCV 2025**
 
 (\*: equal contribution)
 
