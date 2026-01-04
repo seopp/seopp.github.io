@@ -12,14 +12,14 @@ I am currently working as an AI researcher at [AITRICS](https://www.aitrics.com/
 
 My research interests include:
 * Large Language Models
-* Evaluation & Robustness
-* Efficient Models
+* Evaluation & Benchmarks
+* AI Safety
 
 ## Work Experiences
 
 * **[AITRICS](https://www.aitrics.com/)**  
   2024.03 - Present  
-  AI Researcher
+  AI Research Engineer
 
 * **[Korea Institute of Science and Technology (KIST)](https://www.kist.re.kr/ko/index.do)**  
   2023.06 - 2023.12  
