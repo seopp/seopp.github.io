@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an AI researcher at [AITRICS](https://www.aitrics.com/) as the alternative for mandatory military service in South Korea.
+I am currently working as an AI research engineer at [AITRICS](https://www.aitrics.com/) as the alternative for mandatory military service in South Korea.
 
 My research interests include:
 * Large Language Models
