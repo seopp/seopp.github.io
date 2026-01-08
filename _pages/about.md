@@ -28,6 +28,10 @@ My research interests include:
 
 ## Publications
 
+* **[Evaluating the Pre-Consultation Ability of LLMs using Diagnostic Guidelines](https://arxiv.org/pdf/2601.03627)**  
+  Jean Seo, Gibaeg Kim, Kihun Shin, **Seungseop Lim**, Hyunkyung Lee, Wooseok Han, Jongwon Lee, Eunho Yang  
+  **EACL 2026 Industry Track**
+
 * **[H-DDx: A Hierarchical Evaluation Framework for Differential Diagnosis](https://arxiv.org/pdf/2510.03700)**  
   **Seungseop Lim**\*, Gibaeg Kim\*, Hyunkyung Lee, Wooseok Han, Jean Seo, Jaehyo Yoo Eunho Yang   
   **GenAI4Health @NeurIPS 2025 Oral**
