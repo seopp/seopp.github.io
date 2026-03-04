@@ -26,11 +26,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Seungseop Lim"
   pronouns         : # example: "she/her"  
-  bio              : "AI Research Engineer at AITRICS"
+  bio              : "AI Research Engineer at Upstage"
   location         : "Seoul, South Korea"
-  # employer         : "AITRICS"
   uri              : # URL
-  email            : "ss.lim@aitrics.com" 
+  email            : "ss.lim@upstage.ai" 
 
   # Academic websites
   academia         : # URL

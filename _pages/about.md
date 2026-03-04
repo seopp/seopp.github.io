@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an AI research engineer at [AITRICS](https://www.aitrics.com/) as the alternative for mandatory military service in South Korea.
+I am currently working as an AI Research Engineer at [Upstage](https://www.upstage.ai), building benchmarks and evaluation toolkits that diagnose frontier LLMs from multiple angles and shape data-driven technical roadmap.
 
 My research interests include:
 * Large Language Models
@@ -16,9 +16,12 @@ My research interests include:
 * AI Safety
 
 ## Work Experiences
+* **[Upstage](https://www.upstage.ai)**
+  2026.03 ~ Present
+  AI Research Engineer
 
 * **[AITRICS](https://www.aitrics.com/)**  
-  2024.03 - Present  
+  2024.03 - 2026.03  
   AI Research Engineer
 
 * **[Korea Institute of Science and Technology (KIST)](https://www.kist.re.kr/ko/index.do)**  
@@ -53,6 +56,6 @@ My research interests include:
 ## Education
 
 * **Konkuk University, Seoul**  
-  2021.03 - Present (Expected graduation: 2027.02)  
+  2021.03 - Present  
   B.S. in Applied Statistics (Major) / Computer Science and Engineering (Minor)  
   GPA: 4.15 / 4.5
