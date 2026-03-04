@@ -16,8 +16,8 @@ My research interests include:
 * AI Safety
 
 ## Work Experiences
-* **[Upstage](https://www.upstage.ai)**
-  2026.03 ~ Present
+* **[Upstage](https://www.upstage.ai)**  
+  2026.03 ~ Present   
   AI Research Engineer
 
 * **[AITRICS](https://www.aitrics.com/)**  
