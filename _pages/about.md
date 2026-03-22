@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an AI Research Engineer at [Upstage](https://www.upstage.ai), building benchmarks and evaluation toolkits that diagnose frontier LLMs from multiple angles and shape data-driven technical roadmap.
+I am currently working as an AI Research Engineer at Upstage, building benchmarks and evaluation toolkits that diagnose frontier LLMs from multiple angles and shape data-driven technical roadmap.
 
 My research interests include:
 * Large Language Models
