@@ -13,7 +13,7 @@ I am currently working as an AI Research Engineer at Upstage, building benchmark
 My research interests include:
 * Large Language Models
 * Evaluation & Benchmarks
-* AI Safety
+* Agentic AI
 
 ## Work Experiences
 * **[Upstage](https://www.upstage.ai)**  
